@@ -305,13 +305,13 @@ class MainForm(Frame):
         self.btnRegister.pack()
         self.lblTeam = Label(self, text="Presented by:", bg="slateblue4", width="250", height="1", font=("Calibri", 13))
         self.lblTeam.pack()
-        self.lblTeam1 = Label(self, text="", bg="#FFFFFF", width="250", height="1",
+        self.lblTeam1 = Label(self, text="Vishisht Vats", bg="#FFFFFF", width="250", height="1",
                               font=("Times New Roman", 11))
         self.lblTeam1.pack()
-        self.lblTeam2 = Label(self, text="Divyanshi Munjal", bg="#FFFFFF", width="250", height="1",
+        self.lblTeam2 = Label(self, text="Antriksh Dwivedi", bg="#FFFFFF", width="250", height="1",
                               font=("Times New Roman", 11))
         self.lblTeam2.pack()
-        self.lblTeam3 = Label(self, text="Pratiksha Singh", bg="#FFFFFF", width="250", height="1",
+        self.lblTeam3 = Label(self, text="Arnav Tyagi", bg="#FFFFFF", width="250", height="1",
                               font=("Times New Roman", 11))
         self.lblTeam3.pack()
 
