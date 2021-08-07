@@ -1,5 +1,6 @@
 ######## A Healthcare Domain Chatbot to simulate the predictions of a General Physician ########
 # random comment line 1 added
+# random comment line 2 added
 # Importing the libraries
 from tkinter import *
 from tkinter import messagebox
